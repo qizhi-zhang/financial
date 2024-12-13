@@ -11,3 +11,4 @@ stock/*
 !stock/dataset3_10party
 !stock/dataset2_3party
 !stock/dataset2_3party
+!stock/*.sh
