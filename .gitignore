@@ -1,7 +1,7 @@
 env_finacial/
 *.zip
 bond/
-stock/
+stock/*
 .idea
 .eggs
 .DS_Store
