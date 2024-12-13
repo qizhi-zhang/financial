@@ -7,3 +7,7 @@ stock/*
 .DS_Store
 .vscode/
 !stock/*.py
+!stock/dataset2_10party
+!stock/dataset3_10party
+!stock/dataset2_3party
+!stock/dataset2_3party
