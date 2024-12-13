@@ -1,0 +1,9 @@
+env_finacial/
+*.zip
+bond/
+stock/
+.idea
+.eggs
+.DS_Store
+.vscode/
+!stock/*.py
